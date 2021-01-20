@@ -1,0 +1,26 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" translatable="false">CLInfo</string>
+    <string name="tun">Enter</string>
+    <string name="todo">TODO</string>
+    <string name="enter">Enter</string>
+    <string name="sub_domain">Sub Domain:</string>
+    <string name="skills">Skills:</string>
+    <string name="domain">Domain:</string>
+    <string name="contact_no">Contact No.</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="CLInfo">CLInfo</string>
+    <string name="textView">TextView</string>
+    <string name="textView">TextView</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="domain">Domain</string>
+    <string name="contact_no">Contact No.</string>
+    <string name="email">Email</string>
+    <string name="textView">TextView</string>
+    <string name="textView">TextView</string>
+    <string name="sub_domain">Sub Domain:</string>
+    <string name="Sub_Domain">SubDomain</string>
+    <string name="skills">Skills:</string>
+    <string name="todo">TODO</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "386231999299",
+    "project_id": "clinfo-f4991",
+    "storage_bucket": "clinfo-f4991.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386231999299:android:87515cc690cebf41f86df6",
+        "android_client_info": {
+          "package_name": "com.arylist.clinfo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386231999299-pdqkms0l5a8ubhg83u3pch953e5li9dh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8yFmKFhDcOtPmpfVGdlbsad6gmx27mxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386231999299-pdqkms0l5a8ubhg83u3pch953e5li9dh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
